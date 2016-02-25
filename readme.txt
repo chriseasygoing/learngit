@@ -1,4 +1,4 @@
 git is a distributed version control system
 git is free software distributed under the GPL
 git has amutable index
-git is a tool
+git is a easy tool
